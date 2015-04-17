@@ -33,7 +33,7 @@ public class Rectangle extends Forme implements ICalcul {
 	{
 		double res = 0 ;
 		res = 2*( this.getLargeur() + this.getLongueur() );
-		System.out.println("Le perimetre du rectangle est de :"+res);
+		System.out.println("Le perimetre du rectangle est de : "+res);
 		return res;
 	}
 	

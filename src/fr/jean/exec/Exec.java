@@ -17,7 +17,7 @@ public class Exec {
 		c.perimetre();
 		
 		Cercle ce1 = new Cercle(3);
-		ce1.aire();
+		ce1.aire()  ;
 		c.perimetre();
 		
 		Triangle t = new Triangle();

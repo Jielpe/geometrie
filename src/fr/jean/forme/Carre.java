@@ -29,7 +29,7 @@ public class Carre extends Rectangle {
 	{
 		double res = 0 ;
 		res = 2*( this.getLargeur() + this.getLongueur() );
-		System.out.println("Le perimetre du carre est de :"+res);
+		System.out.println("Le perimetre du carre est de : "+res);
 		return res;
 	}
 	
